@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/AmrYoussef32/30-days-machine-learning-challenge/Banner.png" alt="30 Days of Machine Learning Challenge Banner" style="width:100%;"/>
-
-# 30 Days of Machine Learning Challenge 🚀
+<img src="https://raw.githubusercontent.com/AmrYoussef32/-30-days-machine-learning-challenge/main/banner.png" alt="30 Days of Machine Learning Challenge Banner" style="width:100%;"/>
 
 # 30 Days of Machine Learning Challenge 🚀
 
