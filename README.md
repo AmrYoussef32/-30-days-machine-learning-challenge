@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/AmrYoussef32/30-days-machine-learning-challenge/Banner.png" alt="30 Days of Machine Learning Challenge Banner" style="width:100%;"/>
+
+# 30 Days of Machine Learning Challenge 🚀
+
 # 30 Days of Machine Learning Challenge 🚀
 
 Welcome to my 30 Days ML Challenge!
@@ -37,6 +41,4 @@ Each day, I pick one project to polish and share here.
 
 Follow my journey and feel free to explore the notebooks! 🚀
 
-<img src="https://raw.githubusercontent.com/AmrYoussef32/30-days-machine-learning-challenge/main/banner.png" alt="30 Days of Machine Learning Challenge Banner" style="width:100%;"/>
 
-# 30 Days of Machine Learning Challenge 🚀
